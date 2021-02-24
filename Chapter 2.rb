@@ -17,7 +17,7 @@ class Pet
     attr_accessor :name, :age, :gender, :colour
 end
 
-class Cat < Pet #inherting from the parent class
+class Cat < Pet   #inherting from the parent class
 end
 
 class Dog < Pet
