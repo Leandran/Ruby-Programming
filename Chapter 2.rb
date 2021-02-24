@@ -1,6 +1,6 @@
 #creating a class
 class Person
-    attr_accessor :name, :age, :gender #these attributes can be changed at will
+    attr_accessor :name, :age, :gender #these attributes can be set, read and changed at will
 end
 
 #creating an instance of person class
